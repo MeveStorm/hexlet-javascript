@@ -1,10 +1,10 @@
-name: Linter
+name: Node CI
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
   pull_request:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
   build:
@@ -31,6 +31,8 @@ jobs:
         env:
           CI: true
       - name: Run linter
-        # Run Linter
         run: |
           make lint
+      - name: Run tests
+        run: |
+          make test
