@@ -1,5 +1,5 @@
 const swap = (array) => {
-  const newArray = array;
+  const newArray = [...array];
   const firstElement = newArray[0];
   const lastIndex = newArray.length - 1;
 
