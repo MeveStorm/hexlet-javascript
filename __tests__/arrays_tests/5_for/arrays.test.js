@@ -1,4 +1,4 @@
-import addPrefix from '../../src/arrays/5_for/arrays';
+import addPrefix from '../../../src/arrays/5_for/arrays';
 
 it('addPrefix', () => {
   const names = ['john', 'smith', 'karl'];

@@ -1,4 +1,4 @@
-import get from '../../src/arrays/4_checking_value/arrays';
+import get from '../../../src/arrays/4_checking_value/arrays';
 
 it('ArraysTest', () => {
   const cities = ['moscow', 'london', 'berlin', 'porto', '', null, undefined];

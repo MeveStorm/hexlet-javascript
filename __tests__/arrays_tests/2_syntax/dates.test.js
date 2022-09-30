@@ -1,4 +1,4 @@
-import getWeekends from '../../src/arrays/2_syntax/dates';
+import getWeekends from '../../../src/arrays/2_syntax/dates';
 
 test('get', () => {
   expect(getWeekends()).toEqual(['saturday', 'sunday']);

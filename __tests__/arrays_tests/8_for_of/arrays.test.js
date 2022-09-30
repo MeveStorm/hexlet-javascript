@@ -1,4 +1,4 @@
-import calculateAverage from '../../src/arrays/8_for_of/arrays';
+import calculateAverage from '../../../src/arrays/8_for_of/arrays';
 
 describe('calculateAverage', () => {
   it('#calculate', () => {

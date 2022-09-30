@@ -1,4 +1,4 @@
-import getTotalAmount from '../../src/arrays/10_control_instructions/arrays';
+import getTotalAmount from '../../../src/arrays/10_control_instructions/arrays';
 
 describe('getTotalAmount', () => {
   it('#test 1', () => {

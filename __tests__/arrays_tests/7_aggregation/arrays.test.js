@@ -1,4 +1,4 @@
-import calculateSum from '../../src/arrays/7_aggregation/arrays';
+import calculateSum from '../../../src/arrays/7_aggregation/arrays';
 
 describe('calculateSum', () => {
   it('#calculate', () => {

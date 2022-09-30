@@ -1,4 +1,4 @@
-import { reverse } from '../../src/arrays/6_links/arrays';
+import { reverse } from '../../../src/arrays/6_links/arrays';
 
 test('reverse', () => {
   const names1 = ['john', 'smith', 'karl'];

@@ -1,4 +1,4 @@
-import getSameParity from '../../src/arrays/9_deleting_elements/arrays';
+import getSameParity from '../../../src/arrays/9_deleting_elements/arrays';
 
 it('ArraysTest', () => {
   const result1 = getSameParity([]);

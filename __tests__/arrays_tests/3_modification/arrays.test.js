@@ -1,4 +1,4 @@
-import swap from '../../src/arrays/3_modification/arrays';
+import swap from '../../../src/arrays/3_modification/arrays';
 
 test('get', () => {
   expect(swap([])).toEqual([]);
