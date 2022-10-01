@@ -23,5 +23,8 @@
     "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-jest": "^25.2.2",
     "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
