@@ -5,7 +5,7 @@ const numberDuplicates = (searchItem, array) => {
   let count = 0;
   for (const item of array) {
     if (searchItem === item) {
-      count += 1;
+      count = 1;
     }
   }
   return count;
