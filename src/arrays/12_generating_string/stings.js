@@ -5,9 +5,7 @@ const buildDefinitionList = (definitions) => {
 
   const parts = [];
 
-  for (const item of definitions) {
-    const [definition, description] = item;
-
+  for (const [definition, description] of definitions) {
     parts.push(`<dt>${definition}</dt><dd>${description}</dd>`);
   }
   const innerValue = parts.join('');
