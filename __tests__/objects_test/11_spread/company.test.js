@@ -1,4 +1,4 @@
-import make from '../../../src/object/11_spread/company';
+import make from '../../../src/objects/11_spread/company';
 
 it('make 1', () => {
   const company = make('Hexlet');

@@ -1,4 +1,4 @@
-import countWords from '../../../src/object/6_checking_existence_property/words';
+import countWords from '../../../src/objects/6_checking_existence_property/words';
 
 test('countWords 1', () => {
   const text = '';

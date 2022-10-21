@@ -1,4 +1,4 @@
-import fill from '../../../src/object/9_merge/objects';
+import fill from '../../../src/objects/9_merge/objects';
 
 let object;
 

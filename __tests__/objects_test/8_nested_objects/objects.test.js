@@ -1,4 +1,4 @@
-import get from '../../../src/object/8_nested_objects/object';
+import get from '../../../src/objects/8_nested_objects/objects';
 
 it('get', () => {
   const data = {

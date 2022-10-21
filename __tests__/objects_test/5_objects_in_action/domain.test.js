@@ -1,4 +1,4 @@
-import getDomainInfo from '../../../src/object/5_objects_in_action/domain';
+import getDomainInfo from '../../../src/objects/5_objects_in_action/domain';
 
 it('getDomainInfo', () => {
   const expected1 = {

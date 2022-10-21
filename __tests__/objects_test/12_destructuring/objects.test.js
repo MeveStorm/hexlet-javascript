@@ -1,4 +1,4 @@
-import getSortedNames from '../../../src/object/12_destructuring/objects';
+import getSortedNames from '../../../src/objects/12_destructuring/objects';
 
 describe('getSortedNames', () => {
   it('test 1', () => {

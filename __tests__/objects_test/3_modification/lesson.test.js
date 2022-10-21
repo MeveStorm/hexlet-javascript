@@ -1,4 +1,4 @@
-import normalize from '../../../src/object/3_modification/lesson';
+import normalize from '../../../src/objects/3_modification/lesson';
 
 test('normalize 1', () => {
   const lesson = { name: 'intro', description: 'about Something' };

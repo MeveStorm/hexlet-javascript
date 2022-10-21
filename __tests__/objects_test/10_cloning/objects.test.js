@@ -1,4 +1,4 @@
-import cloneDeep from '../../../src/object/10_cloning/objects';
+import cloneDeep from '../../../src/objects/10_cloning/objects';
 
 const data = {
   key: 'value',

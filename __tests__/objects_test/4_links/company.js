@@ -1,4 +1,4 @@
-import is from '../../../src/object/4_links/company';
+import is from '../../../src/objects/4_links/company';
 
 it('is 1', () => {
   const company1 = {};

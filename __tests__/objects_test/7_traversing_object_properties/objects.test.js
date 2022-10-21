@@ -1,4 +1,4 @@
-import pick from '../../../src/object/7_traversing_object_properties/objects';
+import pick from '../../../src/objects/7_traversing_object_properties/objects';
 
 describe('pick', () => {
   it('test 1', () => {
