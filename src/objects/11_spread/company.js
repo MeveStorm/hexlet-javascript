@@ -1,9 +1,9 @@
-const make = (name, property) => {
-  const defaultProperty = {
+const make = (name, properties) => {
+  const defaultProperties = {
     state: 'moderating',
     createdAt: Date.now(),
   };
-  return { ...defaultProperty, ...property, name };
+  return { ...defaultProperties, ...properties, name };
 };
 
 export default make;
