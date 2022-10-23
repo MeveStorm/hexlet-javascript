@@ -1,5 +1,9 @@
 /* eslint no-restricted-syntax: ["off", "ForOfStatement"] */
 const pick = (data, expectedProperties) => {
+  if (expectedProperties.length === 0) {
+    return {};
+  }
+
   const entries = Object.entries(data);
   const result = {};
 
