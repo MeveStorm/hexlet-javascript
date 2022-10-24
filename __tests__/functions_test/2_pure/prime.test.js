@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
 
 import { jest } from '@jest/globals';
-import sayPrimeOrNot from '../../src/functions/2_pure/prime';
+import sayPrimeOrNot from '../../../src/functions/2_pure/prime';
 
 beforeEach(() => {
   console.log = jest.fn();
