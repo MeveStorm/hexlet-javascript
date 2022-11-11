@@ -1,4 +1,4 @@
-import getFreeDomainsCount from '../../src/functions/12_signals/emails';
+import getFreeDomainsCount from '../../../src/functions/12_signals/emails';
 
 describe('getFreeDomainsCount', () => {
   it('should be empty', () => {
