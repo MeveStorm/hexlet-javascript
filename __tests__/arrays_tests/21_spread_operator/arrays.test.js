@@ -1,4 +1,4 @@
-import { flatten } from '../../../src/arrays/21_spread_operator /arrays';
+import { flatten } from '../../../src/arrays/21_spread_operator/arrays';
 
 test('flatten', () => {
   expect(flatten([])).toEqual([]);
