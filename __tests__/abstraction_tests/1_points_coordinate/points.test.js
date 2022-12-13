@@ -1,4 +1,4 @@
-import calculateDistance from '../../../src/abstraction/1_points_coordinate/points';
+import calculateDistance from '../../../src/abstraction/3_points_coordinate/points';
 
 test('point1', () => {
   const point1 = [0, 0];
