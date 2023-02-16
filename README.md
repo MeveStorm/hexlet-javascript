@@ -1,4 +1,4 @@
-![example workflow](https://github.com/MeveStorm/hexlet-javascript/actions/workflows/ci.yml/badge.svg)
+![workflow](https://github.com/MeveStorm/hexlet-javascript/actions/workflows/ci.yml/badge.svg)
 
 ## Об этом репозитории
 * Этот репозиторий создан для того, чтобы хранить мои решения заданий с Hexlet.io.
