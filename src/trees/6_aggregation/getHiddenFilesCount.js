@@ -3,7 +3,6 @@ import { isFile, getName, getChildren } from '@hexlet/immutable-fs-trees';
 
 const getHiddenFilesCount = (tree) => {
   if (isFile(tree)) {
-    console.log(getName(tree));
     return getName(tree).startsWith('.') ? 1 : 0;
   }
 
